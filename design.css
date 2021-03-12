@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.container{
+    width:450px;
+    margin: 100px auto;
+    font-family:sans-serif;
+}
+h1{
+  text-transform: capitalize;
+  margin-bottom: 18px;
+  color:darkgray;
+}
+input{
+    padding:16px;
+    font-size:24px;
+}
+.user{
+    background-color:rgb(23, 23, 196);
+    color:white;
+    padding:18px;
+}
